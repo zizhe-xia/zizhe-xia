@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**zizhe-xia/zizhe-xia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Zizhe Xia. Welcome to my personal site!
 
-Here are some ideas to get you started:
+## Who Am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a researcher in [your field here]. I specialize in topics like [research interests, e.g., game theory, behavioral economics, etc.]. This website is a place where I share my research, publications, and updates.
+
+## Research
+
+Here are some of my recent papers:
+
+
+
+## Contact
+
+[First]-[Last] at chicagobooth.edu
+
+---
+
+Thank you for visiting!
