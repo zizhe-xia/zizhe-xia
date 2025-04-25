@@ -9,9 +9,9 @@ I am 4-th year economics PhD student at Chicago Booth. I'm interested in mechani
 ## Research
 
 ### **Screening Knowledge with Verifiable Evidence** (with [Sulagna Dasgupta](https://sites.google.com/view/sulagna)) 
-    <details>
-     <summary>Click to expand</summary>
-     A principal seeks to screen an agent based on his demonstrable knowledge of a subject
+<details>
+    <summary>Click to expand</summary>
+    A principal seeks to screen an agent based on his demonstrable knowledge of a subject
      matter, modeled as a binary state. The agent learns about the state through two kinds of
     opposing verifiable signals, each kind providing evidence in favor of one of the states. A good
     quality agent has an evidence structure which is more informative than a bad quality one. In
@@ -23,7 +23,7 @@ I am 4-th year economics PhD student at Chicago Booth. I'm interested in mechani
     answer only if they show a minimal amount of data, arguments, or steps, in support of their
     answer. We prove the results by identifying a connection to the optimal transport problem and
     leveraging it to show the existence of an appropriate virtual value function.
-   </details>
+</details>
    
    
 
