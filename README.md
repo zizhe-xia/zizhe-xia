@@ -8,7 +8,7 @@ I am 4-th year economics PhD student at Chicago Booth. I'm interested in mechani
 
 ## Research
 
-### **Screening Knowledge with Verifiable Evidence** (with [Sulagna Dasgupta](https://sites.google.com/view/sulagna)) 
+### **[Screening Knowledge with Verifiable Evidence](https://github.com/zizhe-xia/zizhe-xia/raw/main/assets/Hiring_with_Evidence_Feb2025.pdf)** (with [Sulagna Dasgupta](https://sites.google.com/view/sulagna)) 
 <details>
     <summary>Abstract</summary>
     A principal seeks to screen an agent based on his demonstrable knowledge of a subject
