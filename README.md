@@ -8,7 +8,7 @@ I am 4-th year economics PhD student at Chicago Booth. I'm interested in mechani
 
 ## Research
 
-### 1. **Screening Knowledge with Verifiable Evidence** (with [Sulagna Dasgupta](https://sites.google.com/view/sulagna)) 
+### **Screening Knowledge with Verifiable Evidence** (with [Sulagna Dasgupta](https://sites.google.com/view/sulagna)) 
    **Abstract**:  
    A principal seeks to screen an agent based on his demonstrable knowledge of a subject
 matter, modeled as a binary state. The agent learns about the state through two kinds of
