@@ -4,11 +4,14 @@ Hello, I'm Zizhe Xia. Welcome to my personal site!
 
 ## Who Am I?
 
-I am a researcher in [your field here]. I specialize in topics like [research interests, e.g., game theory, behavioral economics, etc.]. This website is a place where I share my research, publications, and updates.
+I am 4-th year economics PhD student at Chicago Booth. I'm interested in mechanism design and information design.
 
 ## Research
 
-Here are some of my recent papers:
+### 1. **Screening Knowledge with Verifiable Evidence** (with Sulagna Dasgupta) 
+   **Abstract**:  
+   This paper explores the dynamics of [brief summary of the paper]. It examines [key concepts, methodology, findings].  
+   [Link to PDF](https://link-to-paper1.pdf)
 
 
 
