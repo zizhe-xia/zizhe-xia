@@ -1,10 +1,16 @@
-## Hi There 👋
+## Hi there 👋
 
 Hello, I'm Zizhe Xia. Welcome to my personal site!
 
-## Who Am I?
+## Who am I?
 
 I am 4-th year economics PhD student at Chicago Booth. I'm interested in mechanism design and information design.
+
+## How to pronounce my name?
+
+Zizhe is pronounced like "zi-zhir" where "zh" is a [retroflex consonant](https://en.wikipedia.org/wiki/Retroflex_consonant) that sounds like a "j", and "ir" sounds like in "firm". 
+
+Xia ia pronouced like "shia".
 
 ## Research
 
